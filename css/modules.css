@@ -1,0 +1,36 @@
+
+#photo-template{
+    display: none;
+}
+
+img{
+    width: 400px;
+    height: 350px;
+    margin: 1px;
+    border-radius: 4%;
+}
+p.para{
+    
+    font-size: 20px;
+    overflow-wrap: break-word;
+    text-align: center;
+    
+}
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+h2{display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+footer{
+    float: right;
+}
+select{
+    margin-top: 20px;
+    height: 30px;
+}
