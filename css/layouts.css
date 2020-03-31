@@ -1,0 +1,14 @@
+main{
+    display: flex;
+    flex-flow: row wrap ;
+    justify-content: center;
+    
+
+}
+
+section{
+    display: flex;
+    width: 400px;
+    height:400px;
+    
+}
