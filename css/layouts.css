@@ -2,6 +2,7 @@ main{
     display: flex;
     flex-flow: row wrap ;
     justify-content: center;
+    background-color: rgb(32, 68, 68);
     
 
 }
@@ -9,9 +10,10 @@ main{
 section{
     display: flex;
     flex-direction: column;
-    padding: 20px;
+    padding: 30px 20px;
     width: 400px;
     height:400px;
+    
     
 }
 header{

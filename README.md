@@ -2,10 +2,10 @@
 
 Number and name of feature: Three
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 3hours
 
-Start time: 8:30PM
+Start time: 4:30PM
 
-Finish time: _____
+Finish time: 7:00PM
 
-Actual time needed to complete: _____
+Actual time needed to complete: 3hours
